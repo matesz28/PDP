@@ -5,4 +5,4 @@ No se como subir una foto.
 Me gusta nadar, y soy team invierno.
 Viendo si puedo realizar este cambio desde mi VS
 Viendo si puedo ver esto desde mi VS
-<img src=""C:\Users\ruben\OneDrive\Documentos\Mateo's Stuff\IMG_3819.jpg"" alt="descripcion foto" width="350">
+<img src=""FotoMateo.jpg"" alt="descripcion foto" width="350">
